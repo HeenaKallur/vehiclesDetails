@@ -1,0 +1,63 @@
+ [
+      {
+        "vehicle_id": 1,
+        "engine_number": "ENG12345",
+        "chassis_number": "CHS67890",
+        "vehicle_type": "Sedan",
+        "vehicle_color": "Red",
+        "fuel_used": "Petrol",
+        "manufacturer_date": "2022-05-15",
+        "manufacturer_name": "ABC Motors",
+        "model": "XYZ",
+        "variant": "V1"
+      },
+      {
+        "vehicle_id": 2,
+        "engine_number": "ENG54321",
+        "chassis_number": "CHS09876",
+        "vehicle_type": "SUV",
+        "vehicle_color": "Blue",
+        "fuel_used": "Diesel",
+        "manufacturer_date": "2021-10-20",
+        "manufacturer_name": "DEF Motors",
+        "model": "PQR",
+        "variant": "V2"
+      },
+      {
+        "vehicle_id": 3,
+        "engine_number": "ENG98765",
+        "chassis_number": "CHS65432",
+        "vehicle_type": "Hatchback",
+        "vehicle_color": "Silver",
+        "fuel_used": "Electric",
+        "manufacturer_date": "2023-02-01",
+        "manufacturer_name": "GHI Motors",
+        "model": "LMN",
+        "variant": "V3"
+      },
+      {
+        "vehicle_id": 4,
+        "engine_number": "ENG24680",
+        "chassis_number": "CHS13579",
+        "vehicle_type": "Convertible",
+        "vehicle_color": "Black",
+        "fuel_used": "Petrol",
+        "manufacturer_date": "2020-07-10",
+        "manufacturer_name": "JKL Motors",
+        "model": "OPQ",
+        "variant": "V4"
+      },
+      {
+        "vehicle_id": 5,
+        "engine_number": "ENG86420",
+        "chassis_number": "CHS97531",
+        "vehicle_type": "Minivan",
+        "vehicle_color": "White",
+        "fuel_used": "Hybrid",
+        "manufacturer_date": "2024-01-05",
+        "manufacturer_name": "MNO Motors",
+        "model": "RST",
+        "variant": "V5"
+      }
+    ]
+  
